@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Victor ! <br/>
+<h1> Hi there 👋, I'm Vic ! <br/>
 
 <a href="https://github.com/ViCode-X"> Aspiring Cybersecurity Professional</a>, 
  <a href="https://www.linkedIn.com/In/adebiyivictor1/"> Engineer and Tech Enthusiast</a></h1>
@@ -47,7 +47,7 @@
 -->
 
 
-- <b>Python (Desktop Applications)</b>
+- <b>Python (Desktop Application)</b>
  <!--
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
