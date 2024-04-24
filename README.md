@@ -11,21 +11,26 @@
 - <b>Digital Forensics: Investigation</b>
  <!-- - [Image Analysis]####(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 -->
-- <b>Vulnerability Scanning and Assessment</b>###
+
+- <b>Vulnerability Scanning and Assessment</b>
+
   <!--
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
- -->
-- <b>Network Analysis<b>#
-<!--
+  -->
+ 
+ - <b>Network Analysis</b>
+
+  <!--
    - [Windows EventLog: F###ailed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
   - [Packet Capture(Wireshark)]###(https://github.com/joshmadakor1/Jwipe.PowerShell)
   - Packet capture TCP Dump[Active Directory Bulk User Creation]
--->
-- <b>Security Awareness<b>
+  -->
+ 
+ - <b>Security Awareness</b>
   <!--
   - [Phishing campaign: content Creation ] ####(https://github.com/joshmadakor1/Sentinel-Lab)
 
@@ -33,25 +38,23 @@
 
   - Packet capture TCP Dump[Active Directory Bulk User Creation]
 
--->
-- <b>Virtual HomeLab Build<b>
-<!--
+  -->
+- <b>Virtual Lab Build</b>
+ <!--
   - ###[Phishing campaign: content Creation ] ####(https://github.com/joshmadakor1/Sentinel-Lab)
--->
-- <b>Security Awareness<b>
-<!--
+
   - [Phishing campaign: content Creation ] ####(https://github.com/joshmadakor1/Sentinel-Lab)
 -->
 
 
 - <b>Python (Desktop Applications)</b>
-<!--
+ <!--
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - ###[Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+  - <b>Python</b>
   - [Firewall Server Handler](https://github.com/ViCode-X/firewall-server-Handler)
--->
+ -->
 
 <!--
 #<h2>📺 Popular YouTube Videos</h2>
