@@ -19,5 +19,5 @@
   
 - <b>Virtual Lab Build</b>
  
-- <b>Python (Desktop Application)</b>
+- <b>Python </b>
  
