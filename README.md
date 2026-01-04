@@ -1,10 +1,29 @@
-# 👋 Hi there, I’m Vic
+# 👋 Hello, I’m Vic
 
-🔐 **Aspiring Cybersecurity Professional**  
-⚙️ **Engineer | Tech Enthusiast | Security-Driven Thinker**
+🔐 **Cybersecurity Professional in the Making**  
+⚙️ **Engineer | Security Enthusiast | Automation-Oriented Thinker**
 
-I’m passionate about designing, analyzing, and securing systems against modern cyber threats.  
+I specialize in **understanding how systems fail, how attackers exploit them, and how defenders stop them**.  
+My passion lies in building **secure, resilient, and observable systems** that can withstand modern cyber threats.
+
+With hands-on experience across **networks, endpoints, and cloud-adjacent environments**, I focus heavily on **defensive security (Blue Team operations)**, **security engineering**, and **security automation**—bridging the gap between theory and real-world implementation.
+
+---
+
+### 🔎 Core Security Interests
+- 🛡️ Threat Detection & Incident Response  
+- 📊 Log Analysis, SIEM & Security Monitoring  
+- 🌐 Network & Endpoint Security  
+- 🤖 Security Automation & Scripting  
+- 🧪 Lab-Based Learning & Adversary Simulation  
+
+---
+
+### 🎯 What Drives Me
+I’m driven by curiosity, precision, and the challenge of staying ahead of evolving threats. I’m passionate about designing, analyzing, and securing systems against modern cyber threats. 
+I enjoy transforming **raw data into security insights**, automating repetitive tasks, and continuously improving defensive strategies through **testing, learning, and iteration**.
 My interests span **defensive security (Blue Team)**, **security engineering**, and **automation**, with hands-on experience across networks, endpoints, and cloud-adjacent environments.
+
 
 🔗 [GitHub](https://github.com/ViCode-X) • [LinkedIn](https://www.linkedin.com/in/adebiyivictor1)
 
