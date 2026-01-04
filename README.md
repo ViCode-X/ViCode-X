@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Vic
 
 🔐 **Cybersecurity Professional in the Making**  
-⚙️ **Engineer | Security Enthusiast | Automation-Oriented Thinker**
+⚙️ **Engineer | Tech Enthusiast | Security-Driven Thinker**
 
 I specialize in **understanding how systems fail, how attackers exploit them, and how defenders stop them**.  
 My passion lies in building **secure, resilient, and observable systems** that can withstand modern cyber threats.
