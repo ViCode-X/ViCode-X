@@ -1,23 +1,119 @@
-<h1> Hi there 👋, I'm Vic ! <br/>
+# 👋 Hi there, I’m Vic
 
-<a href="https://github.com/ViCode-X"> An Aspiring Cybersecurity Professional</a>, 
+🔐 **Aspiring Cybersecurity Professional**  
+⚙️ **Engineer | Tech Enthusiast | Security-Driven Thinker**
 
- <a href="https://www.linkedin.com/in/adebiyivictor1
-"> Engineer and Tech Enthusiast</a></h1>
+I’m passionate about designing, analyzing, and securing systems against modern cyber threats.  
+My interests span **defensive security (Blue Team)**, **security engineering**, and **automation**, with hands-on experience across networks, endpoints, and cloud-adjacent environments.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+🔗 [GitHub](https://github.com/ViCode-X) • [LinkedIn](https://www.linkedin.com/in/adebiyivictor1)
 
-- <b>Firewall Server Automation</b>
+---
 
-- <b>Digital Forensics: Investigation</b>
- 
-- <b>Vulnerability Scanning and Assessment</b>
-  
-- <b>Network Analysis</b>
- 
-- <b>Security Awareness</b>
-  
-- <b>Virtual Lab Build</b>
- 
-- <b>Python </b>
- 
+## 👨‍💻 Cybersecurity Projects
+
+### 🔥 Firewall Server Automation
+Designed and automated firewall rule management to improve consistency, reduce human error, and enhance network security posture.
+
+**Key Highlights:**
+- Automated firewall configuration and policy deployment
+- Implemented rule validation and logging mechanisms
+- Reduced manual configuration errors and response time
+
+**Tools & Concepts:**  
+`Linux`, `iptables / firewalld`, `Bash`, `Python`, `Network Security`
+
+---
+
+### 🕵️ Digital Forensics: Investigation
+Conducted forensic investigations to identify, analyze, and preserve digital evidence from compromised systems.
+
+**Key Highlights:**
+- Disk and memory analysis to detect malicious artifacts
+- Timeline reconstruction and incident root-cause analysis
+- Applied chain-of-custody and evidence handling best practices
+
+**Tools & Concepts:**  
+`Autopsy`, `Volatility`, `FTK Imager`, `File System Analysis`, `Incident Response`
+
+---
+
+### 🛡️ Vulnerability Scanning & Risk Assessment
+Performed vulnerability assessments to identify security weaknesses and recommend remediation strategies.
+
+**Key Highlights:**
+- Scanned systems and applications for known vulnerabilities
+- Analyzed CVEs and assessed risk severity
+- Produced actionable security reports with remediation guidance
+
+**Tools & Concepts:**  
+`Nmap`, `OpenVAS`, `Nessus`, `CVSS`, `Threat Modeling`
+
+---
+
+### 🌐 Network Traffic Analysis
+Monitored and analyzed network traffic to detect suspicious activities and potential intrusions.
+
+**Key Highlights:**
+- Packet capture and protocol analysis
+- Identified anomalous traffic patterns and indicators of compromise
+- Strengthened understanding of attacker techniques and network behavior
+
+**Tools & Concepts:**  
+`Wireshark`, `tcpdump`, `IDS/IPS Concepts`, `OSI & TCP/IP Models`
+
+---
+
+### 🎓 Security Awareness & Training
+Developed security awareness content to educate users on common cyber threats and safe practices.
+
+**Key Highlights:**
+- Phishing awareness and social engineering prevention
+- Password hygiene and endpoint security education
+- Translated technical risks into user-friendly guidance
+
+**Concepts:**  
+`Human Factor Security`, `Social Engineering`, `Risk Awareness`
+
+---
+
+### 🧪 Virtual Cybersecurity Lab Build
+Built and maintained a virtual lab environment for testing attacks, defenses, and security tools safely.
+
+**Key Highlights:**
+- Deployed attacker and defender machines
+- Simulated real-world attack scenarios
+- Tested detection, logging, and response workflows
+
+**Tools & Concepts:**  
+`VirtualBox / VMware`, `Linux`, `Windows`, `Active Directory Basics`, `Blue & Red Team Labs`
+
+---
+
+### 🐍 Python for Security & Automation
+Used Python to automate security tasks, analyze data, and streamline workflows.
+
+**Key Highlights:**
+- Log parsing and data extraction
+- Simple security tooling and scripts
+- Automation of repetitive operational tasks
+
+**Concepts & Libraries:**  
+`Python`, `Regex`, `Automation`, `Security Scripting`
+
+---
+
+## 🚀 Current Focus
+- Security Engineering & Detection
+- SIEM & Log Analysis
+- Automation for Security Operations
+- Blue Team & Purple Team Practices
+
+---
+
+## 📫 Let’s Connect
+I’m always open to collaboration, learning opportunities, and security discussions.
+
+📧 **Reach out via LinkedIn or GitHub**
+
+
