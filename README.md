@@ -22,7 +22,7 @@ With hands-on experience across **networks, endpoints, and cloud-adjacent enviro
 ### 🎯 What Drives Me
 I’m driven by curiosity, precision, and the challenge of staying ahead of evolving threats. I’m passionate about designing, analyzing, and securing systems against modern cyber threats. 
 I enjoy transforming **raw data into security insights**, automating repetitive tasks, and continuously improving defensive strategies through **testing, learning, and iteration**.
-My interests span **defensive security (Blue Team)**, **security engineering**, and **automation**, with hands-on experience across networks, endpoints, and cloud-adjacent environments.
+My interests span **defensive security (Blue Team)**, **security engineering**, and **automation** with practical experience spanning network infrastructure, endpoint systems, and cloud-integrated environments..
 
 
 🔗 [GitHub](https://github.com/ViCode-X) • [LinkedIn](https://www.linkedin.com/in/adebiyivictor1)
