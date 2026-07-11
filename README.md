@@ -25,7 +25,6 @@ I enjoy transforming **raw data into security insights**, automating repetitive 
 My interests span **defensive security (Blue Team)**, **security engineering**, and **automation** with practical experience spanning network infrastructure, endpoint systems, and cloud-integrated environments..
 
 
-🔗 [GitHub](https://github.com/ViCode-X) • [LinkedIn](https://www.linkedin.com/in/adebiyivictor1)
 
 ---
 
@@ -134,5 +133,6 @@ Used Python to automate security tasks, analyze data, and streamline workflows.
 I’m always open to collaboration, learning opportunities, and security discussions.
 
 📧 **Reach out via LinkedIn or GitHub**
+🔗 [GitHub](https://github.com/ViCode-X) • [LinkedIn](https://www.linkedin.com/in/adebiyivictor1)
 
 
